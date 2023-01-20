@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CarsDatabase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarsDatabase_jar</output-path>
+    <root id="archive" name="CarsDatabase.jar">
+      <element id="module-output" name="CarsDatabase" />
+    </root>
+  </artifact>
+</component>
