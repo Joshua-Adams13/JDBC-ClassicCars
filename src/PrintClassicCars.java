@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.Connection;
 import java.sql.ResultSet;
 
-public class printClassicCars {
+public class PrintClassicCars {
     public void printProductList(String productLine) throws Exception {
         try (Connection connection = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/classicmodels", "root", "1mysqlserver!");

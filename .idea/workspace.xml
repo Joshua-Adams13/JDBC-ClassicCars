@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5fcc2-6636-4e45-ad36-1885d6a99c11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CarsDatabase_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsDatabase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.0.31.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/java.sql.Driver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrderComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printClassicCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HRComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_HR_AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_HR_DeleteEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_HR_ReplaceSalesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printClassicCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintClassicCars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/printClassicCars.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PrintClassicCars.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,9 +59,30 @@
       <recent name="$PROJECT_DIR$/.idea/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_Order">
+  <component name="RunManager" selected="Application.Main_HR_DeleteEmployee">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CarsDatabase" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_HR_AddEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_HR_AddEmployee" />
+      <module name="CarsDatabase" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_HR_DeleteEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_HR_DeleteEmployee" />
+      <module name="CarsDatabase" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_HR_ReplaceSalesManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_HR_ReplaceSalesManager" />
       <module name="CarsDatabase" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_HR_DeleteEmployee" />
+        <item itemvalue="Application.Main_HR_AddEmployee" />
+        <item itemvalue="Application.Main_HR_ReplaceSalesManager" />
         <item itemvalue="Application.Main_Order" />
         <item itemvalue="Application.Main" />
       </list>
